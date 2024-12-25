@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #2a73bd; 
+    
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #6ea0d6 !important; 
+    
+    
+  }
+  
+  .nav-link {
+    color: #3d0e94 !important; 
+    
+    
+  }
+  
+  .nav-link:hover {
+    color: #007bff !important; 
+  }
+  
+  .cart-icon {
+    width: 30px; 
+    height: 30px;
+  }
+  
